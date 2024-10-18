@@ -1,4 +1,4 @@
-const loveDate = new Date("2022-07-01");
+const loveDate = new Date("2022-07-02");
 
 const dateElement = document.getElementById("date");
 const countElement = document.getElementById("count");
